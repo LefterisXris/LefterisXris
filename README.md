@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, I am Eleftherios Chrysochoidis, or just Lefteris 😊
 
-<!--
-**LefterisXris/lefterisxris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=lefterisxris)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Favorite Projects
+
+- 🖥 **[CodeTour](https://github.com/LefterisXris/CodeTour)** - IntelliJ plugin - available on [Marketplace](https://plugins.jetbrains.com/plugin/19227-codetour)
+  > Reach me on: **lefterisxris@gmail.com**
+  #### :wrench: Plugin Info :electric_plug:
+
+  ![Build](https://github.com/LefterisXris/CodeTour/workflows/Build/badge.svg)
+  [![Version](https://img.shields.io/jetbrains/plugin/v/19227-codetour.svg)](https://plugins.jetbrains.com/plugin/19227-codetour)
+  [![Downloads](https://img.shields.io/jetbrains/plugin/d/19227-codetour.svg)](https://plugins.jetbrains.com/plugin/19227-codetour)
+
+### Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=lefterisxris&show_icons=true&locale=en&layout=compact)
+
+
+### Github Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lefterisxris&show_icons=true&locale=en)
+
